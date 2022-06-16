@@ -1,5 +1,3 @@
-EDIT: I added a license for the sake of it being public/open-source.
-
 # LUCID-vs-RNN-comparison
 Comparison between LUCID model developed by Doriguzzi-Corin et al. (2020) and a RNN model developed by Jake Fawcett as part of his BEng degree. The source codes are included below. Primary comparison metrics are data preprocessing time, training time and detection time.
 
@@ -12,7 +10,7 @@ https://github.com/doriguzzi/lucid-ddos
 # Description
 This project implements the two models in Google Colab as two .ipynb files. Both models were trained using the CICDDoS2019 set for 03-11 (first day). Detailed implementation and data preprocessing can be found in the uploaded report.
 
-While the script for LUCID implementation in this repository is original, the script for the RNN came from the source repository with some minor adjustments. This includes some additional commands for printing results and graphings.
+While the script for LUCID implementation in this repository is original, the script for the RNN came from the source repository with some minor adjustments. This includes some additional commands for printing results and graphings. If you would like to reproduce the results, make sure to adjust the datasets file directory as appropriate. For more information on the two models, refer to the source code above.
 
 # Acknowledgements
 Firstly, thank you for Dr. Roopak Sinha for being my primary supervisor for this project, as well as for my thesis. Thank you to Dr. Mahsa Mohaghegh, who has helped me come up with the primary idea for this project, alongside Dr. Sinha.
