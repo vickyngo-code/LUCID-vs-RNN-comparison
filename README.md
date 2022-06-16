@@ -1,3 +1,5 @@
+EDIT: I added a license for the sake of it being public/open-source.
+
 # LUCID-vs-RNN-comparison
 Comparison between LUCID model developed by Doriguzzi-Corin et al. (2020) and a RNN model developed by Jake Fawcett as part of his BEng degree. The source codes are included below. Primary comparison metrics are data preprocessing time, training time and detection time.
 
